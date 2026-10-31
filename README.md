@@ -87,3 +87,7 @@ PyTorch uses the GPU (CUDA) if there is one, and otherwise runs on the CPU. The 
 | ![Asphalt 360 confusion matrix](trp%20picture%20results/asphalt%20360%20x%20360%20confusion%20matrix.jpg) | ![Asphalt 720 confusion matrix](trp%20picture%20results/asphalt%20720%20x%20720%20Confusion%20matrix.jpg) |
 
 More plots are in [`trp picture results/`](trp%20picture%20results/).
+
+## License
+
+This project is released under the [MIT License](LICENSE).
